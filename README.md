@@ -21,9 +21,9 @@
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"> 
 
-<p align="center">
-![info](https://github-readme-stats.vercel.app/api?username=AlchemyHAN&show_icons=true&count_private=true&hide=prs&theme=vue&custom_title=💕%20Github%20Stats&count_private=true)
-</p>
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=AlchemyHAN&show_icons=true&count_private=true&hide=prs&theme=vue&custom_title=💕%20Github%20Stats&count_private=true" />
+</div>
 
 > **Be a weirdo.**
 
