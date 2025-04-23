@@ -1,5 +1,5 @@
 <div align="center">
-<h1>Heeeeeey, good to see you!</h1>
+<h1>Heeeeeey 👋, good to see you!</h1>
 </div>
 <div align="center">
 </div>
@@ -9,14 +9,11 @@
  <div align="center">
  <b> Languages and Tools: </b>
  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
- <code><img width="15%" src="https://www.vectorlogo.zone/logos/javascript/javascript-ar21.svg"></code><code><img width="15%" src="https://www.vectorlogo.zone/logos/typescriptlang/typescriptlang-ar21.svg"></code><code><img width="15%" src="https://www.vectorlogo.zone/logos/python/python-ar21.svg"></code>
-   <code><img width="15%" src="https://www.vectorlogo.zone/logos/vuejs/vuejs-ar21.svg"></code><br /><code><img width="15%" src="https://www.vectorlogo.zone/logos/debian/debian-ar21.svg"></code></code><code><img width="15%" src="https://www.vectorlogo.zone/logos/getbootstrap/getbootstrap-ar21.svg"></code><code><img width="15%" src="https://www.vectorlogo.zone/logos/java/java-horizontal.svg"><img width="15%" src="https://www.vectorlogo.zone/logos/swift/swift-horizontal.svg"></code>
-<br />
-<code><img width="15%" src="https://www.vectorlogo.zone/logos/nodejs/nodejs-ar21.svg"></code><code><img width="15%" src="https://www.vectorlogo.zone/logos/djangoproject/djangoproject-ar21.svg"></code><code><img width="15%" src="https://www.vectorlogo.zone/logos/pocoo_flask/pocoo_flask-ar21.svg"></code><code><img width="15%" src="https://www.vectorlogo.zone/logos/jupyter/jupyter-ar21.svg"></code>
-<br /><code><img width="15%" src="https://www.vectorlogo.zone/logos/mysql/mysql-ar21.svg"></code><code><img width="15%" src="https://www.vectorlogo.zone/logos/mongodb/mongodb-ar21.svg"></code>
-<code><img width="15%" src="https://www.vectorlogo.zone/logos/nginx/nginx-ar21.svg"></code>
-<code><img width="15%" src="https://www.vectorlogo.zone/logos/php/php-ar21.svg"></code>
-<br /><code><img width="15%" src="https://www.vectorlogo.zone/logos/git-scm/git-scm-ar21.svg"></code><code><img width="15%" src="https://www.vectorlogo.zone/logos/docker/docker-ar21.svg"></code><code><img width="15%" src="https://www.vectorlogo.zone/logos/kubernetes/kubernetes-ar21.svg"></code><code><img width="15%" src="https://www.vectorlogo.zone/logos/jenkins/jenkins-ar21.svg"></code>
+  <p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=javascript,typescript,python,vue,go,java,php,swift,debian,redhat,apple,windows,docker,jenkins,git,kubernetes,mysql,mongodb,redis,postgresql,maven,yarn,rabbitmq,tailwind&perline=8" />
+  </a>
+ </p>
 </div>
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"> 
